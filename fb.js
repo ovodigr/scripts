@@ -12,7 +12,7 @@
 var func = function(){
     
    //блокує рекламу зліва під меню
-   $("._m8d").hide();
+   $("._m8d").hide(); 
    
    //блокує історію зверху
    $(".stories_feed_wrap").hide();
